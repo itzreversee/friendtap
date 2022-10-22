@@ -1,0 +1,100 @@
+{
+  "mainMenu_myPasses": "My passes",
+  "mainMenu_receivedPasses": "Received passes",
+  "mainMenu_createPass": "Create pass",
+  "mainMenu_profile": "Profile",
+  "mainMenu_send": "Send",
+  "mainMenu_share": "Share your Friend Tap!",
+  "mainMenu_updates": "Updates",
+  "mainMenu_info": "Info",
+
+  "splash_1": "Powered by insomnia",
+  "splash_2": "Get better",
+  "splash_3": "Only Friend Tap",
+  "splash_4": "Send it to THAT person",
+  "splash_5": "you don't got balls to do it",
+  "splash_6": "uwu",
+  "splash_7": "how?",
+  "splash_8": "No passes?",
+  "splash_9": "Who asked",
+  "splash_10": "Don't forget to update",
+  "splash_11": "noob",
+  "splash_12": "ur bad",
+  "splash_13": "Be more creative",
+  "splash_14": "yeeet",
+  "splash_fallback": "404 Splash not found!11!!!11!",
+
+  "info_openSourceLibraries": "Open source libraries",
+
+  "myPasses_send": "Send",
+
+  "receivedPasses_receivedFrom": "Received from",
+  "receivedPasses_use": "Use",
+
+  "createPass_errorEmpty": "This can not be empty!",
+  "createPass_datePicker": "Select expiration date",
+  "createPass_add": "Add",
+
+  "profile_currentName": "Your current name is",
+  "profile_nameHint": "Your name on Friend Tap",
+  "profile_resetHint": "To reset EVERYTHING, type RESET and press the button below",
+  "profile_resetButton": "RESET",
+
+  "generic_expirationDate": "Expiration date",
+  "generic_delete": "Delete",
+  "generic_title": "Title",
+  "generic_description": "Description",
+  "generic_disconnected": "Disconnected",
+  "generic_connecting": "Connecting...",
+  "generic_connected": "Connected",
+  "generic_connect": "Connect",
+  "generic_adding": "Adding...",
+  "generic_loading": "Loading...",
+  "generic_from": "From",
+  "generic_redeem": "Redeem",
+
+  "safeDelete_clickAgain": "Click again",
+  "safeDelete_times": "times!",
+
+  "generic_messages_selectedPassToSend": "Selected pass to send!",
+  "generic_messages_selectedPassToRedeem": "Selected pass to redeem!",
+  "generic_messages_youCanNowSendIt": "Now you can send it in Send menu",
+
+  "update_currentVersion": "Your Friend Tap version is",
+  "update_checkUpdatesButton": "Check for updates!",
+
+  "dialog_receiveSuccess_title": "New pass acquired!",
+
+  "dialog_sendExpired_title": "Couldn't send that pass!",
+  "dialog_sendExpired_description": "Pass expired!",
+
+  "dialog_redeemDialog_title": "Redeemed pass!",
+
+  "dialog_redeemFailedExpired_title": "Couldn't redeem pass",
+  "dialog_redeemFailedExpired_description": "Pass expired!",
+
+  "dialog_redeemFailedNotFound_title": "Couldn't send that pass!",
+  "dialog_redeemFailedNotFound_description": "Can not find that pass!",
+
+  "dialog_newUpdateDialog_title": "New update is available!",
+  "dialog_newUpdateDialog_description": "Newest available version is",
+
+  "dialog_latestVersionDialog_title": "Up to date!",
+  "dialog_latestVersionDialog_description": "Your Friend Tap is up to date!",
+
+  "dialog_futureDialog_title": "Are you from future?",
+  "dialog_futureDialog_description_newestVersionIs": "Newest versoin is",
+  "dialog_futureDialog_description_butYouAreOn": "but you are on",
+  "dialog_futureDialog_description_howIsItPossible": "How is it possible?",
+
+  "dialog_errorDialog_title": "An error occurred!",
+  "dialog_errorDialog_description": "We couldn't check for updates!",
+
+  "dialog_reset_title": "Successfully reset Friend Tap!",
+  "dialog_reset_description": "Remember, EVERYTHING was deleted!",
+
+  "dialog_button_generic_ohno": "Oh no!",
+  "dialog_button_generic_nice": "Nice!",
+  "dialog_button_generic_download": "Download",
+  "dialog_button_generic_how": "How?"
+}

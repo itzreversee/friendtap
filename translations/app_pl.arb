@@ -1,0 +1,100 @@
+{
+  "mainMenu_myPasses": "Moje przepustki",
+  "mainMenu_receivedPasses": "Ortzymane przepustki",
+  "mainMenu_createPass": "Stwórz przepustkę",
+  "mainMenu_profile": "Profil",
+  "mainMenu_send": "Wysyłanie",
+  "mainMenu_share": "Udostępnij swój Friend Tap!",
+  "mainMenu_updates": "Aktualizacje",
+  "mainMenu_info": "Informacje",
+
+  "splash_1": "Zasilane przez brak snu",
+  "splash_2": "Bądź lepszy",
+  "splash_3": "Tylko Friend Tap!",
+  "splash_4": "Wyślij do TEJ osoby!",
+  "splash_5": "nie masz psychy",
+  "splash_6": "uwu",
+  "splash_7": "jak?",
+  "splash_8": "Brak przepustek?",
+  "splash_9": "Kto pytał",
+  "splash_10": "Nie zapomnij aktualizować",
+  "splash_11": "noob",
+  "splash_12": "słabo",
+  "splash_13": "Bądź kreatywniejszy",
+  "splash_14": "yeeet",
+  "splash_fallback": "404 Nie znaleziono!!!11!1!1",
+
+  "info_openSourceLibraries": "Biblioteki open source",
+
+  "myPasses_send": "Wyślij",
+
+  "receivedPasses_receivedFrom": "Otrzymano od",
+  "receivedPasses_use": "Wykorzystaj",
+
+  "createPass_errorEmpty": "Pole nie może być puste!",
+  "createPass_datePicker": "Wybierz do kiedy przepustka ma być ważna",
+  "createPass_add": "Dodaj",
+
+  "profile_currentName": "Twoja aktualna nazwa",
+  "profile_nameHint": "Twoja nazwa na Friend Tap",
+  "profile_resetHint": "Aby zresetować WSZYSTKIE dane Friend Tap wpisz RESET w polu nazwy, a następnie naciśnij przycisk poniżej.",
+  "profile_resetButton": "RESET",
+
+  "generic_expirationDate": "Data wygaśnięcia",
+  "generic_delete": "Usuń",
+  "generic_title": "Tytuł",
+  "generic_description": "Opis",
+  "generic_disconnected": "Nie połączono",
+  "generic_connecting": "Łączenie..",
+  "generic_connected": "Połączono",
+  "generic_connect": "Połącz",
+  "generic_adding": "Dodawanie...",
+  "generic_loading": "Ładowanie...",
+  "generic_from": "Od",
+  "generic_redeem": "Wykorzystaj",
+
+  "safeDelete_clickAgain": "Kliknij jeszcze",
+  "safeDelete_times": "razy!",
+
+  "generic_messages_selectedPassToSend": "Wybrano przepustkę do wysłania!",
+  "generic_messages_selectedPassToRedeem": "Selected pass to wykorzystania!",
+  "generic_messages_youCanNowSendIt": "Teraz można ją wysłać w menu wysyłania!",
+
+  "update_currentVersion": "Twoja wersja Friend Tap to",
+  "update_checkUpdatesButton": "Sprawdź aktualizacje!",
+
+  "dialog_receiveSuccess_title": "Zdobyto nową przepustkę!",
+
+  "dialog_sendExpired_title": "Nie udało się wysłać tej przepustki!",
+  "dialog_sendExpired_description": "Przepustka wygasła!",
+
+  "dialog_redeemDialog_title": "Wykorzystano przepustkę!",
+
+  "dialog_redeemFailedExpired_title": "Nie udało się zrealizować przepustki",
+  "dialog_redeemFailedExpired_description": "Przepustka wygasła!",
+
+  "dialog_redeemFailedNotFound_title": "Nie udało się wysłać tej przepustki!",
+  "dialog_redeemFailedNotFound_description": "Nie znaleziono przepustki!",
+
+  "dialog_newUpdateDialog_title": "Dostępna jest nowa aktualizacja!",
+  "dialog_newUpdateDialog_description": "Najnowsza dostępna wersja to",
+
+  "dialog_latestVersionDialog_title": "Aktualne!",
+  "dialog_latestVersionDialog_description": "Twój Friend Tap jest aktualny!",
+
+  "dialog_futureDialog_title": "Nie udało się wysłać tej przepustki!",
+  "dialog_futureDialog_description_newestVersionIs": "Najnowsza wersja to",
+  "dialog_futureDialog_description_butYouAreOn": "ale ty jesteś na",
+  "dialog_futureDialog_description_howIsItPossible": "Jak to możliwe?",
+
+  "dialog_errorDialog_title": "Wystąpił błąd!",
+  "dialog_errorDialog_description": "Nie mogliśmy sprawdzić aktualizacji!",
+
+  "dialog_reset_title": "Pomyślnie zresetowano Friend Tap!",
+  "dialog_reset_description": "Pamiętaj, że WSZYSTKO zostało usunięte!",
+
+  "dialog_button_generic_ohno": "O nie!",
+  "dialog_button_generic_nice": "Super!",
+  "dialog_button_generic_download": "Pobierz",
+  "dialog_button_generic_how": "Jak to?"
+}
