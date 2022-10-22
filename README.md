@@ -1,8 +1,10 @@
 # Friend Tap
 This is an update repository for Friend Tap  
 Languages / Języki: 
- * English
- * Polski (Polish)
+ * English ( by me )
+ * Polski (Polish) ( by me )  
+   
+If you want to translate, read translations/translations.md
 
 # What is Friend Tap
 Friend Tap allows you to closely exchange "passes" with others nearby.
