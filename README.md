@@ -13,3 +13,16 @@ To download the latest version, go to the `` releases``` menu and download the l
 Friend Tap pozwala na bliskie wymienianie się "przepustkami" z innymi w pobliżu.  
 Aplikacja jest w 99% offline, a lokalizacja jest potrzebna do znajdowania innych urządzeń.  
 Aby pobrać najnowszą wersję, przejdź do menu ```releases``` i sciagnij najnowszą wersję w formacie ```.apk```!  
+
+# Used libraries
+ - Flutter
+ - Hive
+ - Flutter Secure Storage
+ - Flutter Datetime Picker
+ - Permission Handler
+ - Dio
+ - Url Launcher
+ - Dynamic Color
+ - Intl
+ 
+More in-app
