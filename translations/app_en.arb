@@ -1,6 +1,6 @@
 {
-  "mainMenu_myPasses": "My passes",
-  "mainMenu_receivedPasses": "Received passes",
+  "mainMenu_inventory": "Inventory",
+  "mainMenu_receivedPasses": "Received",
   "mainMenu_createPass": "Create pass",
   "mainMenu_profile": "Profile",
   "mainMenu_send": "Send",
@@ -22,7 +22,14 @@
   "splash_12": "ur bad",
   "splash_13": "Be more creative",
   "splash_14": "yeeet",
+  "splash_15": "Sounds like a challenge",
+  "splash_16": "ez",
   "splash_fallback": "404 Splash not found!11!!!11!",
+
+  "inventory_own": "Own",
+  "inventory_received": "Received",
+  "inventory_new": "New",
+  "inventory_isThatAChallenge": "Is that a challenge?",
 
   "info_openSourceLibraries": "Open source libraries",
 
@@ -52,6 +59,8 @@
   "generic_loading": "Loading...",
   "generic_from": "From",
   "generic_redeem": "Redeem",
+  "generic_yes": "Yes",
+  "generic_no": "No",
 
   "safeDelete_clickAgain": "Click again",
   "safeDelete_times": "times!",
@@ -62,6 +71,12 @@
 
   "update_currentVersion": "Your Friend Tap version is",
   "update_checkUpdatesButton": "Check for updates!",
+
+  "dialog_createSuccess_title": "Successfully created",
+  "dialog_createSuccess_description": "Check it out in your inventory",
+
+  "dialog_nameChange_title": "Successfully changed name",
+  "dialog_nameChange_description": "Your new name is",
 
   "dialog_receiveSuccess_title": "New pass acquired!",
 
