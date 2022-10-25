@@ -1,5 +1,7 @@
-# Friend Tap
-https://img.shields.io/github/downloads/itzreversee/friendtap/total?style=for-the-badge
+<p align="center">
+   <h1>Friend Tap</h1>
+  <image src="https://img.shields.io/github/downloads/itzreversee/friendtap/total?color=purple"/>
+</p>
 This is an update repository for Friend Tap  
 Languages / Języki: 
  * English ( by me )
