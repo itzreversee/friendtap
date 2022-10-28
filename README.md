@@ -12,7 +12,7 @@ If you want to translate, read translations/translations.md
 # What is Friend Tap
 Friend Tap allows you to closely exchange "passes" with others nearby.  
 The app is 99% offline and you to allow location in order to find other devices.  
-To download the latest version, go to the `` releases``` menu and download the latest version in the `` .apk``` format!  
+To download the latest version, go to the ```releases``` menu and download the latest version in the ```.apk``` format!  
 
 # Co to Friend Tap
 Friend Tap pozwala na bliskie wymienianie się "przepustkami" z innymi w pobliżu.  
