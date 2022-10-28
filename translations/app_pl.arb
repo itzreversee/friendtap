@@ -105,7 +105,7 @@
   "dialog_latestVersionDialog_title": "Aktualne!",
   "dialog_latestVersionDialog_description": "Twój Friend Tap jest aktualny!",
 
-  "dialog_futureDialog_title": "Nie udało się wysłać tej przepustki!",
+  "dialog_futureDialog_title": "Jesteś z przyszłości??",
   "dialog_futureDialog_description_newestVersionIs": "Najnowsza wersja to",
   "dialog_futureDialog_description_butYouAreOn": "ale ty jesteś na",
   "dialog_futureDialog_description_howIsItPossible": "Jak to możliwe?",
