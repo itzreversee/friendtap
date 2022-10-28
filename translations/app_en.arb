@@ -5,6 +5,7 @@
   "mainMenu_profile": "Profile",
   "mainMenu_send": "Send",
   "mainMenu_share": "Share your Friend Tap!",
+  "mainMenu_settings": "Settings",
   "mainMenu_updates": "Updates",
   "mainMenu_info": "Info",
 
@@ -25,6 +26,10 @@
   "splash_15": "Sounds like a challenge",
   "splash_16": "ez",
   "splash_fallback": "404 Splash not found!11!!!11!",
+
+  "settings_inventoryLock": "Inventory Lock",
+
+  "security_inventoryLock_message": "You need to authenticate",
 
   "inventory_own": "Own",
   "inventory_received": "Received",
@@ -61,6 +66,9 @@
   "generic_redeem": "Redeem",
   "generic_yes": "Yes",
   "generic_no": "No",
+  "generic_enabled": "Enabled",
+  "generic_disabled": "Disabled",
+  "generic_search": "Search",
 
   "safeDelete_clickAgain": "Click again",
   "safeDelete_times": "times!",

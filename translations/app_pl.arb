@@ -5,6 +5,7 @@
   "mainMenu_profile": "Profil",
   "mainMenu_send": "Wysyłanie",
   "mainMenu_share": "Udostępnij swój Friend Tap!",
+  "mainMenu_settings": "Ustawienia",
   "mainMenu_updates": "Aktualizacje",
   "mainMenu_info": "Informacje",
 
@@ -25,6 +26,10 @@
   "splash_15": "Brzmi jak wyzwanie",
   "splash_16": "ez",
   "splash_fallback": "404 Nie znaleziono!!!11!1!1",
+
+  "settings_inventoryLock": "Blokada ekwipunku",
+
+  "security_inventoryLock_message": "Musisz potwierdzić swoją tożsamości",
 
   "inventory_own": "Moje",
   "inventory_received": "Otrzymane",
@@ -61,6 +66,9 @@
   "generic_redeem": "Wykorzystaj",
   "generic_yes": "Tak",
   "generic_no": "Nie",
+  "generic_enabled": "Włączone",
+  "generic_disabled": "Wyłączone",
+  "generic_search": "Szukaj",
 
   "safeDelete_clickAgain": "Kliknij jeszcze",
   "safeDelete_times": "razy!",
