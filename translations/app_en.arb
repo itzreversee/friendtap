@@ -69,6 +69,7 @@
   "generic_enabled": "Enabled",
   "generic_disabled": "Disabled",
   "generic_search": "Search",
+  "generic_licenses": "Licenses",
 
   "safeDelete_clickAgain": "Click again",
   "safeDelete_times": "times!",

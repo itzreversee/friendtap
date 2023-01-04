@@ -69,6 +69,7 @@
   "generic_enabled": "Włączone",
   "generic_disabled": "Wyłączone",
   "generic_search": "Szukaj",
+  "generic_licenses": "Licencje",
 
   "safeDelete_clickAgain": "Kliknij jeszcze",
   "safeDelete_times": "razy!",
